@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://meteagroupe.com/sitemap.xml

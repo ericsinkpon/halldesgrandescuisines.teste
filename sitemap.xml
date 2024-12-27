@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://meteagroupe.com/accueil</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://meteagroupe.com/services</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://meteagroupe.com/apropos</loc>
+        <priority>0.8</priority>
+    </url>
+
+     <url>
+        <loc>https://meteagroupe.com/contact</loc>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://meteagroupe.com/equipes</loc>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://meteagroupe.com/engagements</loc>
+        <priority>0.8</priority>
+    </url>
+    <!-- Ajoute toutes tes pages ici -->
+</urlset>
